@@ -1,0 +1,16 @@
+type: theory
+custom_name: Hello Kotlin 1
+files:
+- name: src/App.kt
+  visible: true
+  text: |-
+    // main function
+    fun main() {
+        println("Hello World!")
+    }
+  learner_created: false
+status: Solved
+feedback:
+  time: Sat, 22 May 2021 05:39:37 UTC
+record: -1
+post_submission_on_open: true
